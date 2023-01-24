@@ -1,4 +1,4 @@
-# python-data-structures
+# STACK AND QUEUE
 
 1 ЗАДАНИЕ. 
 Цель задания – познакомиться со структурой данных Стек.
